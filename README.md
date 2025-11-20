@@ -1,4 +1,6 @@
-# Kaldt001_COMP_3023_A1
+# Deadman's Draw
+This is essentially just a C++ implementation of Deadman's Draw that runs in the console.
+
 KNOWN BUGS:
 
 Forced Draws with Kraken Ability end the ability early, but prompt for a second draw opportunity.
